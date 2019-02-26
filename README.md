@@ -1,6 +1,6 @@
 # Breakout
 
-![](https://im4.ezgif.com/tmp/ezgif-4-2374412ae93c.gif)
+![](https://i.imgur.com/YU7Kk1V.gif)
 
 ## Features
 **Paddle**:
@@ -25,6 +25,9 @@ Hurray!
 
 
 **Controls**:
+
+
+*A, D* : Move the paddle left and right.
 
 *SPACE* : Will undock and throw the ball if docked on the paddle.
 
